@@ -84,7 +84,7 @@ const createCard = (person) => {
     const front= createElement('div','face front');
     const back = createElement('div','face back');
 
- front.style.backgroundImage = `url('../Imagens/${person}.jpeg.jpg')`
+ front.style.backgroundImage = `url('..Imagens/${person}.jpeg.jpg')`
    
  card.appendChild(front);
  card.appendChild(back);
