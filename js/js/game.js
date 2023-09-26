@@ -10,7 +10,7 @@ const person =[
     'nami',
     'robin 2',
     'Usoop',
-    'sanji',
+    'Sanji',
     'zoro',   
 ]
 
